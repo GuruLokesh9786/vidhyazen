@@ -8,14 +8,14 @@
   "description": "Your go-to platform for career guidance and productivity tracking",
   "icons": [
     {
-      "src": "/images/icon-192x192.png",
+      "src": "/VidhyaZenIcon.jpg",
       "sizes": "192x192",
       "type": "image/png",
 "form_factor": "wide"
 
     },
     {
-      "src": "/images/icon-512x512.png",
+      "src": "/VidhyaZenIcon.jpg",
       "sizes": "512x512",
       "type": "image/png",
 "form_factor": "wide"
