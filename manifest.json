@@ -1,7 +1,7 @@
 {
   "name": "Vidhyazen",
   "short_name": "Vidhyazen",
-  "start_url": "/",
+  "start_url": "https://vidhyazen.com/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#004aad",
